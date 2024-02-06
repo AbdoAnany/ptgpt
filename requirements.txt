@@ -1,5 +1,4 @@
 
-python_version == "^3.11"
 fastapi==0.68.0
 uvicorn==0.15.0
 re-edge-gpt==0.0.30
